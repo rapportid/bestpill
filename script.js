@@ -39,7 +39,7 @@ function playGraffiti() {
     var graffitiMessage = document.getElementById('graffiti-message');
     graffitiMessage.innerHTML = ''; // Clear previous graffiti effect
     graffitiMessage.innerHTML = '<div class="firework"></div>'; // Add fireworks effect
-    graffitiMessage.innerHTML += "This is not the end. Flexibility to change is your best medicine.";
+    graffitiMessage.innerHTML += "This is not the end. Flexibility is your best medicine.";
     graffitiMessage.style.display = 'block';
 
     setTimeout(function () {
