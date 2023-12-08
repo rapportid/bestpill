@@ -79,10 +79,10 @@ img {
 #graffiti-message {
     display: none;
     color: red;
-    width: 70%;
+    width: 100%;
     font-size: 20px;
     margin-top: 20px;
-    margin-left: 10%;
+    margin-left: 5%;
     position: relative;
 
 }
