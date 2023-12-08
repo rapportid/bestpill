@@ -19,7 +19,6 @@ h1 {
 img {
     color: red;
     font-size: 30px;
-   
 }    
 
 #result-message {
@@ -75,7 +74,6 @@ img {
     margin-top: 20px;
     margin-left: 10%;
     position: relative;
-    overflow-wrap: break-word;
  
 }
 
