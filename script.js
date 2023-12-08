@@ -41,7 +41,7 @@ function playGraffiti() {
     graffitiMessage.innerHTML = '<div class="firework"></div>'; // Add fireworks effect
     graffitiMessage.innerHTML += "This is not the end. \n 
         There is no escape! \n 
-        Don\'t be too comfortable. \n 
+        Don't be too comfortable. \n 
         Flexibility to change is your best medicine.";
     graffitiMessage.style.display = 'block';
 
