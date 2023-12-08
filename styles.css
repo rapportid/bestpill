@@ -107,7 +107,7 @@ img {
     position: relative;
     width: 70px;
     height: 70px;
-    background-color: #212121;
+    background-color: yellow;
     border-radius: 50%;
     animation: fireworks 3s ease-out;
     animation: fireworks 1.5s ease-in-out-infinite;
