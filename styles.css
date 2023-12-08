@@ -79,11 +79,12 @@ img {
 #graffiti-message {
     display: none;
     color: red;
+    width: 70%;
     font-size: 20px;
     margin-top: 20px;
     margin-left: 10%;
     position: relative;
-    overflow-wrap: break-word;
+
 }
 
 @keyframes fireworks {
