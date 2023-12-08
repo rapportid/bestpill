@@ -23,7 +23,7 @@ img {
 }
 
 #result-message {
-    font-size: 18px;
+    font-size: 20px;
     margin-bottom: 20px;
 }
 
@@ -79,8 +79,9 @@ img {
 #graffiti-message {
     display: none;
     color: red;
+    style: bold;
     width: 100%;
-    font-size: 30px;
+    font-size: 28px;
     margin-top: 20px;
     margin-left: 5%;
     position: relative;
